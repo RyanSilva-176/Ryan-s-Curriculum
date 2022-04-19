@@ -1,0 +1,245 @@
+/* Index CSS */
+.background {
+  width: 100%;
+  height: 300px;
+  background-color: #11b67e;
+}
+
+.body {
+  background-color: #e6e6e6;
+}
+
+.container {
+  padding-top: 100px;
+}
+
+.icons {
+  padding: 4%;
+  font-size: 30px;
+  color: #fefefe;
+}
+
+.header-text {
+  color: #fefefe;
+}
+
+.container-profile {
+  padding-top: 50px;  
+}
+
+.container-profile-img {
+  height: 100%;
+  width: 100%;
+  background-color: #fefefe;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+.container-profile-text {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #fefefe;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.welcome-txt {
+  width: 20%;
+  color: #fefefe;
+  background-color: #11b67e;
+}
+
+.name-txt {
+  color: #11b67e;
+  font-weight: bold;
+}
+
+.line-break {
+  height: 2px;
+  background-color: #e6e6e6;
+  width: 100%;
+
+}
+
+.container-table{
+  width: 100%;
+}
+
+.col-icons{
+  height: 40px;
+  width: 100%;
+  padding-top: 0%;
+  background-color: #11b76e;
+}
+
+.container-icons {
+  padding: 4%;
+  font-size: 20px;
+  color: #fefefe;
+}
+
+
+.btn-icon{
+  padding: 8px;
+  background: #fefefe;
+}
+
+.div-blank{
+  height: 50px;
+}
+
+.div-title{
+  height: 30px;
+}
+
+.widget{
+  height: 350px;
+  background-color: #fefefe;
+  border-radius: 10px;
+}
+
+.widget-2{
+  height: 350px;
+}
+
+.desc-profile{
+  text-justify: auto;
+  padding-top: 60px;
+}
+
+.stats-tecnology{
+  text-justify: auto;
+  padding-top: 60px;
+}
+
+
+.stats-percent{
+  border-bottom: 3px solid #11b67e;
+}
+
+.col-education{
+  height: 150px;
+  background-color: #fefefe;
+}
+
+.education-content{
+  background-color: #fefefe;
+  height: 106px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+}
+
+.div-blank-2{
+  height: 40px;
+}
+
+.education-content-left{
+  background-color: #fefefe;
+  height: 106px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+}
+
+.education-title-txt{
+  font-style: bold;
+  color: #11b67e;
+  height: 30px;
+}
+
+.education-date-txt{
+  font-style: italic;
+  color: #fefefe;
+  background-color: #11b67e;
+  width: 95px;
+  padding-left: 5px;
+}
+
+.divider{
+  width: 3px;
+  height: 30px;
+  background-color: #919191;
+}
+
+.divider-circle{
+  width: 10px;
+  height: 10px;
+  background-color: #11b67e;
+  border-radius: 100%;
+}
+
+/* Maps CSS */
+.maps-profile-img{
+  border-radius: 100%;
+  height: 100px;
+  width: 100px;
+}
+
+.div-blank-2{
+  height: 20px;
+}
+
+.frame-title{
+  color: #fefefe;
+}
+
+.frame-maps{
+  background-color: #fefefe;
+  height: 500px;
+  width: 100%;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+.frame-content{
+  background-color: #fefefe;
+  height: 500px;
+  width: 100%;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.frame-content-title{
+  color: #11b67e;
+  padding-top: 10px;
+}
+
+.form-content{
+  background-color: #11b67e;
+}
+
+.fildset-text{
+  font-weight: bold;
+}
+
+.text-area{
+  height: 100px;
+  width: 400px;
+}
+
+.send-btn{
+  border: 0;
+  border-radius: 5px;
+  background-color: #11b67e;
+  color: #fefefe;
+}
+
+.clear-btn{
+  border: 0;
+  border-radius: 5px;
+  background-color: #919191;
+  color: #fefefe;
+}
+
+.cancel-btn{
+  border: 0;
+  border-radius: 5px;
+  background-color: #dc3545;
+}
+
+.cancel-btn-link{
+  text-decoration:none;
+  color: #fefefe;
+}
+
